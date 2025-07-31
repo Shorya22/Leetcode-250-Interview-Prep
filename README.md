@@ -29,21 +29,23 @@ Welcome to the **Leetcode 250** repository – a curated collection of the **250
 
 ## 📚 Structured Problem Categories
 
-| 💡 Topic                | 📌 Folder Name        |
-|------------------------|-----------------------|
-| Arrays & Strings       | `arrays_strings/`     |
-| Linked Lists           | `linked_lists/`       |
-| Trees & Binary Trees   | `trees/`              |
-| Graphs & Traversals    | `graphs/`             |
-| Dynamic Programming    | `dp/`                 |
-| Sliding Window         | `sliding_window/`     |
-| Binary Search          | `binary_search/`      |
-| Backtracking           | `backtracking/`       |
-| Stack & Queues         | `stack_queue/`        |
-| Heap & Greedy          | `heap_greedy/`        |
-| Bit Manipulation       | `bit_manipulation/`   |
-| Math & Logic           | `math_logic/`         |
-| Others & Miscellaneous | `others/`             |
+| 💡 Topic                | 📌 Folder Name        | 📊 Problem Count |
+|------------------------|-----------------------|------------------|
+| Arrays & Strings       | `arrays_strings/`     | ~40 problems     |
+| Linked Lists           | `linked_lists/`       | ~20 problems     |
+| Trees & Binary Trees   | `trees/`              | ~35 problems     |
+| Graphs & Traversals    | `graphs/`             | ~25 problems     |
+| Dynamic Programming    | `dp/`                 | ~40 problems     |
+| Sliding Window         | `sliding_window/`     | ~20 problems     |
+| Binary Search          | `binary_search/`      | ~15 problems     |
+| Backtracking           | `backtracking/`       | ~20 problems     |
+| Stack & Queues         | `stack_queue/`        | ~15 problems     |
+| Heap & Greedy          | `heap_greedy/`        | ~15 problems     |
+| Bit Manipulation       | `bit_manipulation/`   | ~10 problems     |
+| Math & Logic           | `math_logic/`         | ~10 problems     |
+| Others & Miscellaneous | `others/`             | ~5 problems      |
+
+> 📖 **Detailed topic guide**: See [TOPICS.md](TOPICS.md) for comprehensive explanations of each category.
 
 📊 Progress Tracker
 
@@ -52,6 +54,8 @@ Welcome to the **Leetcode 250** repository – a curated collection of the **250
 🔄 Solved: XX
 
 📅 Updates: Daily commits
+
+> 🎯 **Track your progress**: Run `python progress_tracker.py` to monitor your completion status across all categories.
 
 ⭐ Stars, forks, and contributions are welcome!
 
