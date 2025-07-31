@@ -4,7 +4,14 @@ Welcome to the **Leetcode 250** repository – a curated collection of the **250
 
 > ✅ If you’re searching for:  
 > `Leetcode 250` · `Top 250 Leetcode Problems` · `FAANG Coding Prep` · `Python Interview Questions`  
+> `Most Asked Leetcode Questions` · `Leetcode DSA Sheet` · `Leetcode for Big Tech Interviews`  
+> `Data Structures and Algorithms in Python` · `Top Leetcode List 2024` · `Best Leetcode Questions to Practice`  
+> `Leetcode Pattern-Based Practice` · `Python Coding Interview Guide` · `Google Amazon Meta Interview Leetcode`  
+> `Top DSA Problems for Product Based Companies` · `Coding Round Preparation in Python`  
+> `Neetcode 150 vs Leetcode 250` · `Leetcode Python Tracker` · `Crack the Coding Interview with Leetcode`  
+> 
 > You’ve landed in the **right place**.
+
 
 ---
 
@@ -39,14 +46,21 @@ Welcome to the **Leetcode 250** repository – a curated collection of the **250
 | Others & Miscellaneous | `others/`             |
 
 📊 Progress Tracker
+
 ✅ Total Questions: 250
+
 🔄 Solved: XX
+
 📅 Updates: Daily commits
+
 ⭐ Stars, forks, and contributions are welcome!
+
 ⭐ Support & Share
 
 If this project helps you:
+
 🌟 Give it a star
+
 🍴 Fork it to your profile
 
 🗣️ Share with friends and aspiring interview candidates
