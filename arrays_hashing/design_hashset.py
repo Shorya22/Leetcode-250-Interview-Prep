@@ -94,4 +94,3 @@ class MyHashSet:
     def contains(self, key: int) -> bool:
         hv = self.calculate_hash_value(key)
         return key in self.table[hv]
-
